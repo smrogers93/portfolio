@@ -2,9 +2,15 @@ import React from 'react';
 import Splash from './components/Splash'
 import './App.css';
 
+
 function App() {
   return (
-    <Splash /> 
+    <>
+      <Splash /> 
+      {/* <div className="info-block-container">
+        Placeholder
+      </div> */}
+    </>
   );
 }
 
