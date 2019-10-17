@@ -7,9 +7,7 @@ function App() {
   return (
     <>
       <Splash /> 
-      {/* <div className="info-block-container">
-        Placeholder
-      </div> */}
+      
     </>
   );
 }
